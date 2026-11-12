@@ -36,7 +36,8 @@ Producing too much or too little inventory can create operational inefficiencies
 
 ## Dashboard
 
-<img width="1635" height="1041" alt="image" src="https://github.com/user-attachments/assets/4505f5d0-4dea-4717-a848-4c87694b811b" />
+<img width="1634" height="1015" alt="image" src="https://github.com/user-attachments/assets/8d4329fc-da93-4a62-b96c-fca4769a6090" />
+
 
 
 ## Key Findings
