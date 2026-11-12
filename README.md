@@ -45,7 +45,7 @@ The analysis focuses on production and first-shift leftover inventory. Actual sa
 
 <img width="1634" height="1015" alt="image" src="https://github.com/user-attachments/assets/8d4329fc-da93-4a62-b96c-fca4769a6090" />
 
-
+<img width="1633" height="1024" alt="image" src="https://github.com/user-attachments/assets/d62c0d58-9f5a-48b6-9010-ed61559a8faf" />
 
 
 ## Key Findings
