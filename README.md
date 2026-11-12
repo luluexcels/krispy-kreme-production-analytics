@@ -2,16 +2,22 @@
 SQL and Power BI portfolio project analyzing bakery production, first-shift inventory, and operational performance.
 # Krispy Kreme Production & Inventory Analytics
 
-**Tools:** SQL | SQLite | DB Browser for SQLite | Microsoft Power BI
+**Tools:** SQLite | DB Browser for SQLite | Microsoft Power BI
 
 ## Project Overview
 
-This independent portfolio project explores production planning and inventory management in a bakery operations environment. Using manually recorded production and first-shift leftover data across five donut varieties, I developed a SQLite database and interactive Power BI dashboard to analyze production performance and identify opportunities for operational improvement.
+This project was inspired by my firsthand experience working as a Krispy Kreme server and donut decorator. Working in a fast-paced bakery environment has given me valuable insight into daily production operations, customer demand patterns, and inventory management.
 
+As part of my role, I help determine how many donuts of each variety to decorate based on anticipated customer demand and patterns I've observed throughout the week. I've noticed how these decisions can influence production quantities and the amount of inventory remaining after a shift.
+
+That experience sparked my interest in exploring how operational data and analytics can support more efficient production planning. I wanted to take something I encounter in my everyday work environment and approach it from the perspective of a supply chain and industrial engineering student.
+
+Using SQL and Microsoft Power BI, I developed a database and interactive dashboard to analyze production quantities, first-shift leftover inventory, and production trends across five donut varieties.
 ## Business Problem
 
-Producing too much or too little inventory can create operational inefficiencies. This project examines production quantities and remaining inventory to better understand product-level production patterns and support more informed production planning.
+Production planning requires balancing product availability with inventory levels. Producing too much can contribute to excess remaining inventory, while producing too little can create product availability challenges.
 
+This project explores how historical production and first-shift leftover data can help identify opportunities to improve production planning and inventory management.
 ## Objectives
 
 - Analyze production volumes across donut varieties.
@@ -23,7 +29,6 @@ Producing too much or too little inventory can create operational inefficiencies
 ## Tools & Technologies
 
 - **SQLite / DB Browser:** Database management and SQL analysis.
-- **SQL:** Joins, aggregations, calculations, and data analysis.
 - **Microsoft Power BI:** Interactive dashboard development and KPI visualization.
 
 ## Key Metrics
@@ -33,6 +38,8 @@ Producing too much or too little inventory can create operational inefficiencies
 - First-shift leftover rate
 - Production volume by donut variety
 - Daily production trends
+
+The analysis focuses on production and first-shift leftover inventory. Actual sales quantities were not recorded and are not treated as measured data in this project.
 
 ## Dashboard
 
