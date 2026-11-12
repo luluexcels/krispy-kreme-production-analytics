@@ -47,6 +47,7 @@ The analysis focuses on production and first-shift leftover inventory. Actual sa
 
 
 
+
 ## Key Findings
 
 The initial reporting period revealed differences in production volume and first-shift leftover levels across five donut varieties. These findings provide a starting point for evaluating production allocation and inventory management opportunities.
