@@ -1,1 +1,41 @@
+# Project Methodology
 
+## 1. Data Collection
+
+Operational data was manually recorded over a one-week reporting period. The dataset included production quantities and first-shift leftover inventory across five donut varieties.
+
+## 2. Database Development
+
+DB Browser for SQLite was used to organize the data into relational tables:
+
+- `fact_daily_operations`: Daily production and leftover records.
+- `dim_products`: Donut varieties and tray capacity.
+- `dim_calendar`: Calendar attributes, including dates and weekdays.
+
+## 3. SQL Analysis
+
+SQL queries were developed to:
+- Join operational records with product information.
+- Calculate total units produced.
+- Calculate total units remaining after first shift.
+- Determine first-shift leftover percentages.
+- Summarize production by donut variety and date.
+
+## 4. Data Visualization
+
+Microsoft Power BI was used to create an interactive dashboard featuring:
+- Production KPIs.
+- Production volume comparisons.
+- First-shift leftover comparisons.
+- Daily production trends.
+- Date and product filters.
+
+## 5. Analytical Limitations
+
+The initial dataset covers only one week and does not contain recorded sales quantities. First-shift leftovers should not be interpreted as final end-of-day waste or unsold inventory.
+
+Additional data collection would be necessary to establish reliable recurring demand patterns and develop a validated forecasting model.
+
+## 6. Potential Improvements
+
+Future development could incorporate additional reporting periods, authorized sales data, weekday demand comparisons, and production forecasting techniques.
